@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "765f68280e4a9d1b",
+        "id": "df316fe4ae6c17b8",
         "type": "tabs",
         "children": [
           {
-            "id": "1c63f45e1b81b520",
+            "id": "84dbcd64b0b39d09",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Redis/redis.jpg"
+                "file": "Netty/Netty服务端的启动流程.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 588.5110359191895
+    "width": 276.5
   },
   "right": {
     "id": "782158ca4c1f0f8d",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/redis.jpg",
+                "file": "Netty/Netty服务端的启动流程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/redis.jpg",
+                "file": "Netty/Netty服务端的启动流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Redis/redis.jpg"
+                "file": "Netty/Netty服务端的启动流程.md"
               }
             }
           }
@@ -145,11 +147,12 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1c63f45e1b81b520",
+  "active": "84dbcd64b0b39d09",
   "lastOpenFiles": [
+    "Netty/01.网络数据包收发过程.md",
+    "Web3/btc/BTC原理.md",
     "Linux/Linux内核网络.md",
     "Redis/redis.jpg",
-    "Netty/01.网络数据包收发过程.md",
     "Netty/Netty服务端如何接收客户端连接.md",
     "Netty/Netty服务端的启动流程.md",
     "MySQL/InnoDB记录结构.md",
@@ -159,7 +162,6 @@
     "新建 文本文档.txt",
     "learn.md",
     "Web3/eth/ETH原理.md",
-    "Web3/btc/BTC原理.md",
     "Linux",
     "MySQL",
     "Web3/eth/智能合约.md",
