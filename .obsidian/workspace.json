@@ -11,8 +11,12 @@
             "id": "c8bdd39aff85a331",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "MySQL/事务隔离级别与MVCC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MySQL/事务隔离级别与MVCC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MySQL/事务隔离级别与MVCC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "MySQL/事务隔离级别与MVCC.md"
+              }
             }
           }
         ]
@@ -141,14 +149,14 @@
   },
   "active": "c8bdd39aff85a331",
   "lastOpenFiles": [
-    "Redis/redis.jpg",
-    "Linux/Linux内核网络.md",
-    "Netty/01.网络数据包收发过程.md",
-    "Netty/Netty服务端如何接收客户端连接.md",
-    "Netty/Netty服务端的启动流程.md",
     "MySQL/InnoDB记录结构.md",
     "MySQL/锁.md",
     "MySQL/索引.md",
+    "Linux/Linux内核网络.md",
+    "Redis/redis.jpg",
+    "Netty/01.网络数据包收发过程.md",
+    "Netty/Netty服务端如何接收客户端连接.md",
+    "Netty/Netty服务端的启动流程.md",
     "MySQL/事务隔离级别与MVCC.md",
     "新建 文本文档.txt",
     "learn.md",
