@@ -1,1 +1,27 @@
-.obsidian/.trash
+# Obsidian 配置文件
+.obsidian/
+
+# Obsidian 废纸篓
+.trash/
+
+# 操作系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感信息文件
+*.key
+*.pem
+
+# 大型媒体文件（如果不想同步）
+*.mp4
+*.mov
+*.wav
+
+# 临时文件和备份
+*.tmp
+*.bak
+
+# 插件生成的文件
+.obsidian-git-data
+
+# 其他你不想同步的文件或文件夹
