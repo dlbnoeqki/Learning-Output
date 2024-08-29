@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "765f68280e4a9d1b",
+        "id": "0c0a28379e9189f3",
         "type": "tabs",
         "children": [
           {
-            "id": "1c63f45e1b81b520",
+            "id": "c8bdd39aff85a331",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Redis/redis.jpg"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -67,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 588.5110359191895
+    "width": 383.51103591918945
   },
   "right": {
     "id": "782158ca4c1f0f8d",
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Redis/redis.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Redis/redis.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Redis/redis.jpg"
-              }
+              "state": {}
             }
           }
         ]
@@ -145,10 +139,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "1c63f45e1b81b520",
+  "active": "c8bdd39aff85a331",
   "lastOpenFiles": [
-    "Linux/Linux内核网络.md",
     "Redis/redis.jpg",
+    "Linux/Linux内核网络.md",
     "Netty/01.网络数据包收发过程.md",
     "Netty/Netty服务端如何接收客户端连接.md",
     "Netty/Netty服务端的启动流程.md",
