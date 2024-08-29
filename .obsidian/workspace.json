@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ab674d36667f0617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MySQL/事务隔离级别与MVCC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MySQL/事务隔离级别与MVCC.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MySQL/事务隔离级别与MVCC.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           }
@@ -147,8 +160,10 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "c8bdd39aff85a331",
+  "active": "ab674d36667f0617",
   "lastOpenFiles": [
+    "MySQL/事务隔离级别与MVCC.md",
+    "conflict-files-obsidian-git.md",
     "MySQL/InnoDB记录结构.md",
     "MySQL/锁.md",
     "MySQL/索引.md",
@@ -157,7 +172,6 @@
     "Netty/01.网络数据包收发过程.md",
     "Netty/Netty服务端如何接收客户端连接.md",
     "Netty/Netty服务端的启动流程.md",
-    "MySQL/事务隔离级别与MVCC.md",
     "新建 文本文档.txt",
     "learn.md",
     "Web3/eth/ETH原理.md",
