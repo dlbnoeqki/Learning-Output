@@ -60,4 +60,14 @@ http2实践
 http服务器就是web服务器
 web服务器中的资源不只是静态文件，也可以是一些程序
 
+MIME类型是一种文本标记，表示一种主要的对象类型和一个特定的子类型，中间由一条斜杠来分隔。
+text/html
+text/plain
+image/jpeg
+image/gif
+
+URI：web服务器资源的名字，它是一个唯一标识
+http://www.joes-hardware.com/specials/saw-blade.gif
+URI指示HTTP协议去访问
+
 
