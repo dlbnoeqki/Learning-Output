@@ -68,6 +68,16 @@ image/gif
 
 URI：web服务器资源的名字，它是一个唯一标识
 http://www.joes-hardware.com/specials/saw-blade.gif
-URI指示HTTP协议去访问
+URI指示HTTP协议去访问web服务器上的资源，给定了URI，HTTP就可以解析出对象
+
+URI有两种形式：
+URL:遵循一种标准格式：
+1. 资源所使用的协议类型:http://
+2. web服务器的网址: www.joes-hardware.com
+3. web服务器的某个资源: /specials/saw-blade.gif
+  **几乎所有的URI都是URL**
+
+URN
+
 
 
